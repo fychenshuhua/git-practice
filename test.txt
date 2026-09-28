@@ -1,1 +1,2 @@
-hello gits
+hello git
+我修改了文件
